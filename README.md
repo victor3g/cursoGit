@@ -17,9 +17,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Criando um portfólio de projetos no GitHub
-Aprendendo a compartilhar o código de projetos no GitHub
-Entendendo como colaborar em projetos
-Fazendo o versionamento de um projeto de software utilizando o Git
-Lidando com conflitos em códigos utilizando o Git
-Analisando e modificando o histórico de commits de um repositório Git
+- Criando um portfólio de projetos no GitHub
+- Aprendendo a compartilhar o código de projetos no GitHub
+- Entendendo como colaborar em projetos
+- Fazendo o versionamento de um projeto de software utilizando o Git
+- Lidando com conflitos em códigos utilizando o Git
+- Analisando e modificando o histórico de commits de um repositório Git
