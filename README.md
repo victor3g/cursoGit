@@ -23,3 +23,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Fazendo o versionamento de um projeto de software utilizando o Git
 - Lidando com conflitos em códigos utilizando o Git
 - Analisando e modificando o histórico de commits de um repositório Git
+
+xxxx
